@@ -14,7 +14,7 @@ Foram usados:
 - Estrutura do semáforo
 
 
-## código feito
+## código
 ````
 using namespace std;
 
