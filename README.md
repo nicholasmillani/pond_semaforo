@@ -5,7 +5,7 @@ Nesta atividade, o objetivo é compreender o funcionamento e a utilização das 
 Durante a prática, será desenvolvido um código que acende e apaga LEDs de acordo com o estado do botão, demonstrando na prática o conceito de leitura (input) e escrita (output) nas portas do microcontrolador. Além disso, aprender a diferenciar portas analógicas e digitais, compreender a importância dos resistores de proteção e aplicar conceitos de lógica de controle em um sistema simples.
 
 
-## Materiais:
+## 1. - Materiais:
 Foram usados:
 - 1 Arduino uno
 - 3 resistores de 1k hmn
@@ -14,7 +14,7 @@ Foram usados:
 - Estrutura do semáforo
 
 
-## código
+## 2. - código
 ````
 using namespace std;
 
@@ -85,10 +85,14 @@ void loop() {
   	
   ````
 
-## Imagens:
+## 3. - Circuíto
+<img src="image (12).png" height=400 widht=400>
+
+
+## 4. - Imagens:
 <img src="Imagem do WhatsApp de 2025-10-31 à(s) 12.00.36_018ceb14.jpg" height=400 widht=400>
 <img src="Imagem do WhatsApp de 2025-10-31 à(s) 12.00.37_fe24df26.jpg" height=400 widht=400>
 <img src="Imagem do WhatsApp de 2025-10-31 à(s) 12.00.38_a801dc22.jpg" height=400 widht=400>
 
-## Vídeo:
+## 5. - Vídeo:
 https://drive.google.com/file/d/1fETBF9krcoVLWeVuDUyTvlRSm3um-2WO/view?usp=sharing
